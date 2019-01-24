@@ -2022,6 +2022,11 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/office-1209640-960-721-960x640.jpg");
 }
+.cid-r8D3zg7HzH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/congreso-nacion-eidelman-291-1500x1000.jpg");
+}
 .cid-r8D3AayWoT {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3699,6 +3704,46 @@ body {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-r8CGml0BnWN {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  
+}
+.cid-r8CGml0BnWN .card-img {
+  background-color: #384f5f;
+}
+.cid-r8CGml0BnWN .card-box {
+  padding: 2rem;
+  background-color: #384f5f;
+}
+.cid-r8CGml0BnWN h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-r8CGml0BnWN p {
+  text-align: left;
+}
+.cid-r8CGml0BnWN .mbr-text {
+  color: #fff;
+}
+.cid-r8CGml0BnWN .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-r8CGml0BnWN .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-r8CGml0BnWN .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-r8CV5VsXVR {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -4085,9 +4130,17 @@ body {
 }
 #features4-1d{
   padding-top: 2%;
-  background-color:#f9f9f9
+  background-color:#f9f9f9;
+  background-image: url("../../../assets/images/congreso-nacion-eidelman-291-1500x1000.jpg")
 }
-.footerLink a{
+#features4-1d1{
+  padding-top: 2%;
+  background-color:#f9f9f9;}
+  #features4-1d2{
+    padding-top: 2%;
+    background-color:#f9f9f9;}
+
+  .footerLink a{
   color:#ffffff;
   font-weight: bold
 }
@@ -4126,4 +4179,11 @@ background-image: url("../../../assets/images/ajedrez.jpg")
   }
 span.nfc-icon{
   color:#82a1d0
+}
+
+.english-text{
+  color:blue
+}
+.english-text-title{
+  color:blue
 }
