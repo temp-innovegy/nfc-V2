@@ -2143,6 +2143,12 @@ body {
   background-color: #f9f9f9;
   background: linear-gradient(#f9f9f9, #466c88);
 }
+#clients-15 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+  background: linear-gradient(#273f50, #466c88);
+}
 .cid-r8CMQR6s5c .carousel-control {
   background: #000;
 }
@@ -4135,7 +4141,11 @@ body {
 }
 #features4-1d1{
   padding-top: 2%;
-  background-color:#f9f9f9;}
+  padding-bottom: 2%;
+  color:white;
+  background-color: #273f50;
+ }
+
   #features4-1d2{
     padding-top: 2%;
     background-color:#f9f9f9;}
