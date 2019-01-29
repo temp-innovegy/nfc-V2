@@ -2147,7 +2147,10 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
-  background: linear-gradient(#273f50, #466c88);
+  background: linear-gradient(#f9f9f9, #466c88);
+}
+#exclusivos{
+  background-color:black
 }
 .cid-r8CMQR6s5c .carousel-control {
   background: #000;
@@ -2938,6 +2941,11 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #466c88;
+}
+.cid-r8Di0Mr4G55 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #3e3e3e;
 }
 .cid-r8Di0Mr4G5 .mbr-section-subtitle {
   color: #f9f9f9;
@@ -3764,6 +3772,34 @@ body {
 .cid-r8CV5VsXVR H3 {
   color: #f9f9f9;
 }
+.cid-r8CV5VsXVY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/palacio-barolo.jpg");
+}
+.cid-r8CV5VsXVYY {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-image: url("../../../assets/images/pro-bono.JPG");
+}
+.cid-r8CV5VsXVYY .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r8CV5VsXVYY H2 {
+  color: #f9f9f9;
+}
+.cid-r8CV5VsXVYY H3 {
+  color: #f9f9f9;
+}
+.cid-r8CV5VsXVY .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r8CV5VsXVY H2 {
+  color: #f9f9f9;
+}
+.cid-r8CV5VsXVY H3 {
+  color: #f9f9f9;
+}
 .cid-r8CUSaibhC {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4142,8 +4178,7 @@ body {
 #features4-1d1{
   padding-top: 2%;
   padding-bottom: 2%;
-  color:white;
-  background-color: #273f50;
+  background-color: #f9f9f9;
  }
 
   #features4-1d2{
