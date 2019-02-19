@@ -2023,9 +2023,9 @@ body {
   background-image: url("../../../assets/images/office-1209640-960-721-960x640.jpg");
 }
 .cid-r8D3zg7HzH {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/congreso-nacion-eidelman-291-1500x1000.jpg");
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: white
 }
 .cid-r8D3AayWoT {
   padding-top: 90px;
@@ -2067,16 +2067,18 @@ body {
 .cid-r8CLdFBi0k {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/law-1012473-960-720-960x349.jpg");
+  background-color:#f9f9f9
 }
 .cid-r8CLdFBi0k .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-r8CLdFBi0k H2 {
-  color: #82a1d0;
+  color: #466c88;
+  font-weight: bold
 }
 .cid-r8CLdFBi0k H3 {
-  color: #f9f9f9;
+  color: #466c88;
+  font-weight: bold
 }
 .cid-r8ADju6cTo {
   padding-top: 90px;
@@ -2138,16 +2140,14 @@ body {
   display: none;
 }
 .cid-r8CMQR6s5c {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-  background: linear-gradient(#f9f9f9, #466c88);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color:white;
 }
 #clients-15 {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
-  background: linear-gradient(#f9f9f9, #466c88);
+  background-color: white
 }
 #exclusivos{
   background-color:black
@@ -2156,7 +2156,7 @@ body {
   background: #000;
 }
 .cid-r8CMQR6s5c .mbr-section-subtitle {
-  color: #767676;
+  color: #466c88;
 }
 .cid-r8CMQR6s5c .carousel-item {
   -webkit-justify-content: center;
@@ -2352,7 +2352,7 @@ body {
   }
 }
 .cid-r8CMQR6s5c H2 {
-  color: #6d84a7;
+  color: #466c88;
   font-weight: bold
 }
 .cid-r8AvWBJnV5 {
@@ -2848,17 +2848,19 @@ body {
 .cid-r8CAYknZDZ {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #f9f9f9;
+  background-color: white;
 }
 .cid-r8CAYknZDZ h2 {
   text-align: center;
+  color: #466c88;
 }
 .cid-r8CAYknZDZ h3 {
   text-align: center;
   font-weight: 300;
+  color: #466c88;
 }
 .cid-r8CAYknZDZ p {
-  color: #767676;
+  color: #466c88;
 }
 .cid-r8CAYknZDZ .block-content {
   display: -webkit-flex;
@@ -2878,7 +2880,7 @@ body {
   word-break: break-word;
 }
 .cid-r8CAYknZDZ .mbr-section-subtitle {
-  color: #767676;
+  color: #466c88;
 }
 .cid-r8CAYknZDZ .card-title {
   font-weight: 500;
@@ -2888,7 +2890,7 @@ body {
 }
 .cid-r8CAYknZDZ .card-img span {
   font-size: 48px;
-  color: #707070;
+  color: #466c88;
 }
 @media (min-width: 992px) {
   .cid-r8CAYknZDZ .mbr-figure {
@@ -2940,7 +2942,7 @@ body {
 .cid-r8Di0Mr4G5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #466c88;
+  background-color:white;
 }
 .cid-r8Di0Mr4G55 {
   padding-top: 10px;
@@ -2948,13 +2950,15 @@ body {
   background-color: #3e3e3e;
 }
 .cid-r8Di0Mr4G5 .mbr-section-subtitle {
-  color: #f9f9f9;
+  color: #466c88;
+  font-weight: bold
 }
 .cid-r8Di0Mr4G5 .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-r8Di0Mr4G5 H2 {
-  color: #82a1d0;
+  color: #466c88;
+  font-weight: bold
 }
 .cid-r8CQMHShvk {
   padding-top: 90px;
@@ -3775,7 +3779,8 @@ body {
 .cid-r8CV5VsXVY {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/palacio-barolo.jpg");
+  background-color: #466c88;
+  color: white
 }
 .cid-r8CV5VsXVYY {
   padding-top: 80px;
@@ -4178,12 +4183,16 @@ body {
 #features4-1d1{
   padding-top: 2%;
   padding-bottom: 2%;
-  background-color: #f9f9f9;
+  background-color: white;
+  color: #466c88;
+  font-weight: bold
  }
 
   #features4-1d2{
     padding-top: 2%;
-    background-color:#f9f9f9;}
+    background-color:white;
+    color: #466c88;
+    font-weight: bold}
 
   .footerLink a{
   color:#ffffff;
