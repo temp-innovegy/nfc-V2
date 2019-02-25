@@ -2023,8 +2023,6 @@ body {
   background-image: url("../../../assets/images/office-1209640-960-721-960x640.jpg");
 }
 .cid-r8D3zg7HzH {
-  padding-top: 60px;
-  padding-bottom: 30px;
   background-color: white
 }
 .cid-r8D3AayWoT {
@@ -2065,6 +2063,7 @@ body {
   color: #82a1d0;
 }
 .cid-r8CLdFBi0k {
+  min-height: 200px;
   padding-top: 45px;
   padding-bottom: 45px;
   background-color:#f9f9f9
@@ -4240,4 +4239,25 @@ span.nfc-icon{
 }
 .english-text-title{
   color:blue
+}
+.firma{
+  position:absolute;
+  bottom:2%;
+  right:5%;
+  z-index: 1;
+  color:white;
+  font-size:2em;
+  font-weight: bold
+}
+#centerLi{
+  width:50%;margin:0 auto; color:#466c88; font-weight: bold; padding-top: 30px
+}
+@media(max-width: 750px){
+.firma{
+  bottom:15%;
+  font-size:1em;
+}
+#centerLi{
+  width: 80%
+}
 }
